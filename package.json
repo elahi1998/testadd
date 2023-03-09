@@ -1,0 +1,25 @@
+{
+  "name": "testadd",
+  "version": "1.0.0",
+  "description": "This is test code to learn developing npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elahi1998/testadd.git"
+  },
+  "keywords": [
+    "add"
+  ],
+  "author": "Mehboob Elahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elahi1998/testadd/issues"
+  },
+  "homepage": "https://github.com/elahi1998/testadd#readme"
+}
